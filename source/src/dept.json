@@ -1,0 +1,398 @@
+[
+  {
+    "value": "All Departments",
+    "label": "All Departments"
+  },
+  {
+    "value": "ADMINISTRATIVE OPERATIONS - SUSTAINABILITY",
+    "label": "ADMINISTRATIVE OPERATIONS - SUSTAINABILITY"
+  },
+  {
+    "value": "ADMINISTRATIVE OPERATIONS - EHS",
+    "label": "ADMINISTRATIVE OPERATIONS - EHS"
+  },
+  {
+    "value": "ADMINISTRATIVE OPERATIONS - FIRE SAFETY",
+    "label": "ADMINISTRATIVE OPERATIONS - FIRE SAFETY"
+  },
+  {
+    "value": "ADMINISTRATIVE OPERATIONS - HazMat",
+    "label": "ADMINISTRATIVE OPERATIONS - HazMat"
+  },
+  {
+    "value": "ADMINISTRATIVE OPERATIONS - TECHNICAL OPS",
+    "label": "ADMINISTRATIVE OPERATIONS - TECHNICAL OPS"
+  },
+  {
+    "value": "ADMISSIONS OFFICE",
+    "label": "ADMISSIONS OFFICE"
+  },
+  {
+    "value": "AIS",
+    "label": "AIS"
+  },
+  {
+    "value": "AME (USC RACING)",
+    "label": "AME (USC RACING)"
+  },
+  {
+    "value": "ANIMAL RESOURCES",
+    "label": "ANIMAL RESOURCES"
+  },
+  {
+    "value": "ASTRONAUTICAL ENGINEERING",
+    "label": "ASTRONAUTICAL ENGINEERING"
+  },
+  {
+    "value": "ATHLETICS",
+    "label": "ATHLETICS"
+  },
+  {
+    "value": "ATHLETICS (ROWING TEAM)",
+    "label": "ATHLETICS (ROWING TEAM)"
+  },
+  {
+    "value": "AUXILIARY SERVICES  ADMIN-",
+    "label": "AUXILIARY SERVICES  ADMIN-"
+  },
+  {
+    "value": "AUXILIARY SERVICES  ADMIN- HR",
+    "label": "AUXILIARY SERVICES  ADMIN- HR"
+  },
+  {
+    "value": "AUXILIARY SERVICES - HR",
+    "label": "AUXILIARY SERVICES - HR"
+  },
+  {
+    "value": "AUXILIARY SERVICES ADMIN- ASVP",
+    "label": "AUXILIARY SERVICES ADMIN- ASVP"
+  },
+  {
+    "value": "AUXILIARY SERVICES ADMIN- Central IT",
+    "label": "AUXILIARY SERVICES ADMIN- Central IT"
+  },
+  {
+    "value": "AUXILIARY SERVICES ADMIN- Fin&Acct",
+    "label": "AUXILIARY SERVICES ADMIN- Fin&Acct"
+  },
+  {
+    "value": "BIOLOGY",
+    "label": "BIOLOGY"
+  },
+  {
+    "value": "BOOKSTORE",
+    "label": "BOOKSTORE"
+  },
+  {
+    "value": "BOOKSTORE -CUSTOM PRINTING",
+    "label": "BOOKSTORE -CUSTOM PRINTING"
+  },
+  {
+    "value": "CAMPUS CRUISER",
+    "label": "CAMPUS CRUISER"
+  },
+  {
+    "value": "CAPITAL CONSTRUCTION DEVELOPMENT",
+    "label": "CAPITAL CONSTRUCTION DEVELOPMENT"
+  },
+  {
+    "value": "CINEMA",
+    "label": "CINEMA"
+  },
+  {
+    "value": "COLISEUM",
+    "label": "COLISEUM"
+  },
+  {
+    "value": "COLLEGE ADVANCEMENT",
+    "label": "COLLEGE ADVANCEMENT"
+  },
+  {
+    "value": "CULTURAL RELATIONS AND UNIVERSITY EVENTS",
+    "label": "CULTURAL RELATIONS AND UNIVERSITY EVENTS"
+  },
+  {
+    "value": "DENTISTRY",
+    "label": "DENTISTRY"
+  },
+  {
+    "value": "DEPARTMENT OF PUBLIC SAFETY",
+    "label": "DEPARTMENT OF PUBLIC SAFETY"
+  },
+  {
+    "value": "DISTANCE EDUCATION NETWORK",
+    "label": "DISTANCE EDUCATION NETWORK"
+  },
+  {
+    "value": "DORNSIFE TECHNOLOGY SERVICES",
+    "label": "DORNSIFE TECHNOLOGY SERVICES"
+  },
+  {
+    "value": "EARTH SCIENCES",
+    "label": "EARTH SCIENCES"
+  },
+  {
+    "value": "ENGEMANN / STUDENT HEALTH CENTER",
+    "label": "ENGEMANN / STUDENT HEALTH CENTER"
+  },
+  {
+    "value": "ENROLLMENT SERVICES - MAIL AND DATA",
+    "label": "ENROLLMENT SERVICES - MAIL AND DATA"
+  },
+  {
+    "value": "ENROLLMENT SERVICES - OFFICE OF ADMISSION",
+    "label": "ENROLLMENT SERVICES - OFFICE OF ADMISSION"
+  },
+  {
+    "value": "EXECUTIVE AUTO VEHICLE",
+    "label": "EXECUTIVE AUTO VEHICLE"
+  },
+  {
+    "value": "FACILITIES MANAGEMENT",
+    "label": "FACILITIES MANAGEMENT"
+  },
+  {
+    "value": "FACILITIES PURCHASING SERVICES",
+    "label": "FACILITIES PURCHASING SERVICES"
+  },
+  {
+    "value": "FBS",
+    "label": "FBS"
+  },
+  {
+    "value": "GERONTOLOGY",
+    "label": "GERONTOLOGY"
+  },
+  {
+    "value": "HOUSING",
+    "label": "HOUSING"
+  },
+  {
+    "value": "HR & Payroll Services",
+    "label": "HR & Payroll Services"
+  },
+  {
+    "value": "HUMAN RESOURCES DIVISION",
+    "label": "HUMAN RESOURCES DIVISION"
+  },
+  {
+    "value": "ICT",
+    "label": "ICT"
+  },
+  {
+    "value": "INFORMATION SCIENCES INSTITUTE",
+    "label": "INFORMATION SCIENCES INSTITUTE"
+  },
+  {
+    "value": "INFORMATION TECHNOLOGY SERVICES",
+    "label": "INFORMATION TECHNOLOGY SERVICES"
+  },
+  {
+    "value": "IOVINE & YOUNG ACADEMY",
+    "label": "IOVINE & YOUNG ACADEMY"
+  },
+  {
+    "value": "ISI",
+    "label": "ISI"
+  },
+  {
+    "value": "KECK MEDICAL OF USC",
+    "label": "KECK MEDICAL OF USC"
+  },
+  {
+    "value": "KECK SCHOOL OF MEDICINE - OFFICE OF THE DEAN",
+    "label": "KECK SCHOOL OF MEDICINE - OFFICE OF THE DEAN"
+  },
+  {
+    "value": "KECK SCHOOL OF MEDICINE - STREET MEDICINE",
+    "label": "KECK SCHOOL OF MEDICINE - STREET MEDICINE"
+  },
+  {
+    "value": "KUSC",
+    "label": "KUSC"
+  },
+  {
+    "value": "LIBRARY FACILITIES",
+    "label": "LIBRARY FACILITIES"
+  },
+  {
+    "value": "LOVINE & YOUNG ACADEMY",
+    "label": "LOVINE & YOUNG ACADEMY"
+  },
+  {
+    "value": "MAILING & MATERIAL MANAGEMENT",
+    "label": "MAILING & MATERIAL MANAGEMENT"
+  },
+  {
+    "value": "MAILING & MATERIAL MANAGEMENT - MAILING",
+    "label": "MAILING & MATERIAL MANAGEMENT - MAILING"
+  },
+  {
+    "value": "MARSHALL SCHOOL",
+    "label": "MARSHALL SCHOOL"
+  },
+  {
+    "value": "METHODIST HOSPITAL",
+    "label": "METHODIST HOSPITAL"
+  },
+  {
+    "value": "NEIGHBORHOOD ACADEMIC INITIATIVE",
+    "label": "NEIGHBORHOOD ACADEMIC INITIATIVE"
+  },
+  {
+    "value": "OFFICE OF THE PRESIDENT",
+    "label": "OFFICE OF THE PRESIDENT"
+  },
+  {
+    "value": "PHARMACY",
+    "label": "PHARMACY"
+  },
+  {
+    "value": "PREVENTIVE MEDICINE",
+    "label": "PREVENTIVE MEDICINE"
+  },
+  {
+    "value": "PREVENTIVE MEDICINE (CHILDREN'S HEALTH STUDY)",
+    "label": "PREVENTIVE MEDICINE (CHILDREN'S HEALTH STUDY)"
+  },
+  {
+    "value": "PROVOST",
+    "label": "PROVOST"
+  },
+  {
+    "value": "RADISSON",
+    "label": "RADISSON"
+  },
+  {
+    "value": "RECREATION SPORTS",
+    "label": "RECREATION SPORTS"
+  },
+  {
+    "value": "ROSKI SCHOOL OF FINE ARTS",
+    "label": "ROSKI SCHOOL OF FINE ARTS"
+  },
+  {
+    "value": "SAILING TEAM",
+    "label": "SAILING TEAM"
+  },
+  {
+    "value": "SCHOOL OF DRAMATIC ARTS",
+    "label": "SCHOOL OF DRAMATIC ARTS"
+  },
+  {
+    "value": "SCHOOL OF SOCIAL WORK",
+    "label": "SCHOOL OF SOCIAL WORK"
+  },
+  {
+    "value": "SENIOR VP ADMIN",
+    "label": "SENIOR VP ADMIN"
+  },
+  {
+    "value": "STUDENT AFFAIRS",
+    "label": "STUDENT AFFAIRS"
+  },
+  {
+    "value": "STUDENT AFFAIRS -ORIENTATION",
+    "label": "STUDENT AFFAIRS -ORIENTATION"
+  },
+  {
+    "value": "THORNTON SCHOOL OF MUSIC",
+    "label": "THORNTON SCHOOL OF MUSIC"
+  },
+  {
+    "value": "TRANSPORTATION",
+    "label": "TRANSPORTATION"
+  },
+  {
+    "value": "TRANSPORTATION - Field Operations",
+    "label": "TRANSPORTATION - Field Operations"
+  },
+  {
+    "value": "TRANSPORTATION - Parking Enforcement",
+    "label": "TRANSPORTATION - Parking Enforcement"
+  },
+  {
+    "value": "TRANSPORTATION / ESCORT",
+    "label": "TRANSPORTATION / ESCORT"
+  },
+  {
+    "value": "TRANSPORTATION / PMS & TRAMS",
+    "label": "TRANSPORTATION / PMS & TRAMS"
+  },
+  {
+    "value": "TRANSPORTATION / UPC OPERATIONS",
+    "label": "TRANSPORTATION / UPC OPERATIONS"
+  },
+  {
+    "value": "TROJAN EVENT SERVICES",
+    "label": "TROJAN EVENT SERVICES"
+  },
+  {
+    "value": "UNIVERSITY ADVANCEMENT",
+    "label": "UNIVERSITY ADVANCEMENT"
+  },
+  {
+    "value": "UNIVERSITY COMMUNICATIONS",
+    "label": "UNIVERSITY COMMUNICATIONS"
+  },
+  {
+    "value": "UNIVERSITY HOSPITAL",
+    "label": "UNIVERSITY HOSPITAL"
+  },
+  {
+    "value": "UNIVERSITY HOSPITAL - BLOOD DONATION CENTER",
+    "label": "UNIVERSITY HOSPITAL - BLOOD DONATION CENTER"
+  },
+  {
+    "value": "UNIVERSITY HOSPITAL - ORANGE COUNTY",
+    "label": "UNIVERSITY HOSPITAL - ORANGE COUNTY"
+  },
+  {
+    "value": "UNIVERSITY HOSPITAL -NORRIS CANCER CENTER",
+    "label": "UNIVERSITY HOSPITAL -NORRIS CANCER CENTER"
+  },
+  {
+    "value": "UNIVERSITY REAL ESTATE",
+    "label": "UNIVERSITY REAL ESTATE"
+  },
+  {
+    "value": "USC BAND",
+    "label": "USC BAND"
+  },
+  {
+    "value": "USC CARD SERVICES",
+    "label": "USC CARD SERVICES"
+  },
+  {
+    "value": "USC CREDIT UNION",
+    "label": "USC CREDIT UNION"
+  },
+  {
+    "value": "USC HOSPITALITY SERVICES",
+    "label": "USC HOSPITALITY SERVICES"
+  },
+  {
+    "value": "USC LAW SCHOOL",
+    "label": "USC LAW SCHOOL"
+  },
+  {
+    "value": "USC PARKING SERVICES",
+    "label": "USC PARKING SERVICES"
+  },
+  {
+    "value": "VERDUGO HILLS HOSPITAL",
+    "label": "VERDUGO HILLS HOSPITAL"
+  },
+  {
+    "value": "VITERBI SCHOOL OF ENGINEERING",
+    "label": "VITERBI SCHOOL OF ENGINEERING"
+  },
+  {
+    "value": "WRIGLEY",
+    "label": "WRIGLEY"
+  },
+  {
+    "value": "ZILKHA NEUROGENETIC INSTITUTE",
+    "label": "ZILKHA NEUROGENETIC INSTITUTE"
+  }
+]
