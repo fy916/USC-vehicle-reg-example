@@ -1,8 +1,8 @@
-import React, { useState } from "react";
-import { Button, Modal, Form, Input, Radio } from "antd";
+import React, {useState} from "react";
+import {Button, Modal, Form, Input, Radio} from "antd";
 
 const CreateForm = (props) => {
-    const { visible, setVisible, onCreate } = props;
+    const {visible, setVisible, onCreate} = props;
     const [form] = Form.useForm();
 
     const handleCreate = () => {
@@ -31,13 +31,13 @@ const CreateForm = (props) => {
                     label="Title"
                     name="title"
                     rules={[
-                        { required: true, message: "Please input the title of collection!" }
+                        {required: true, message: "Please input the title of collection!"}
                     ]}
                 >
-                    <Input />
+                    <Input/>
                 </Form.Item>
                 <Form.Item name="description" label="Description">
-                    <Input type="textarea" />
+                    <Input type="textarea"/>
                 </Form.Item>
 
                 <Form.Item name="type" label="Type">
@@ -55,7 +55,7 @@ const CreateForm = (props) => {
  * Function version of the component below
  * @param {function} onChange when change occurs
  */
-export const CollectionsPage2 = ({ onChange }) => {
+export const CollectionsPage2 = ({onChange}) => {
     // const { onChange } = props;
     const [visible, setVisible] = useState(false);
 
@@ -101,7 +101,7 @@ export class CollectionsPage extends React.Component {
     }
 
     setVisible = (bool) => {
-        this.setState({ visible: bool });
+        this.setState({visible: bool});
     };
 
     onCreate = (values) => {

@@ -1,14 +1,10 @@
 import React, {useEffect, useState} from 'react';
 import {Button, Checkbox, DatePicker, Divider, Flex, Form, Input, InputNumber, Modal, Radio, Select, Table} from 'antd';
 import data from "./vehicle_data.json"
-import {setSelectionRange} from "@testing-library/user-event/dist/utils";
-import SelectInput from "@mui/material/Select/SelectInput";
-
 import dept_info from "./dept.json"
 
 const columns = Object.keys(data[0]).map(key => ({
-    title: key,
-    dataIndex: key,
+    title: key, dataIndex: key,
 }));
 
 const CreateForm = (props) => {
@@ -26,8 +22,7 @@ const CreateForm = (props) => {
                 console.log("Validate Failed:", info);
             });
     };
-    return (
-        <Modal
+    return (<Modal
             visible={visible}
             title="Create a new vehicle data"
             okText="Ok"
@@ -119,8 +114,7 @@ const CreateForm = (props) => {
                     label="Last Year Total Spent on vehicle maintenance"
                     name="Last Year Total Spent on vehicle maintenance"
                     rules={[{
-                        required: true,
-                        message: "Please input the Last Year Total Spent on vehicle maintenance!"
+                        required: true, message: "Please input the Last Year Total Spent on vehicle maintenance!"
                     }]}>
                     <InputNumber min={0} max={999999} defaultValue={0} addonBefore={"$"}/>
                 </Form.Item>
@@ -199,14 +193,12 @@ const CreateForm = (props) => {
 
 
             </Form>
-        </Modal>
-    );
+        </Modal>);
 };
 
 
 const RegList = ({currentDept}) => {
 
-    const [selectionType, setSelectionType] = useState('checkbox');
     const [selectedItem, setSelectedItem] = useState([]);
     const [visible, setVisible] = useState(false);
     const [usedata, setUsedata] = useState();
@@ -227,8 +219,7 @@ const RegList = ({currentDept}) => {
         setSelectedRowKeys(newSelectedRowKeys);
     };
     const rowSelection = {
-        selectedRowKeys,
-        onChange: onSelectChange,
+        selectedRowKeys, onChange: onSelectChange,
     };
     const hasSelected = selectedRowKeys.length > 0;
 
@@ -246,8 +237,7 @@ const RegList = ({currentDept}) => {
     }, [data, currentDept]);
 
 
-    return (
-        <div style={{marginLeft: '40px', marginRight: '40px'}}>
+    return (<div style={{marginLeft: '40px', marginRight: '40px'}}>
 
             <Divider></Divider>
 
@@ -267,17 +257,13 @@ const RegList = ({currentDept}) => {
                     />
                 </div>
 
-                {selectedItem.length === 0 &&
-                    <Button type="primary" disabled danger>
-                        Delete
-                    </Button>
-                }
+                {selectedItem.length === 0 && <Button type="primary" disabled danger>
+                    Delete
+                </Button>}
 
-                {selectedItem.length > 0 &&
-                    <Button type="primary" danger>
-                        Delete
-                    </Button>
-                }
+                {selectedItem.length > 0 && <Button type="primary" danger>
+                    Delete
+                </Button>}
             </Flex>
 
             <Divider/>
@@ -296,12 +282,12 @@ const RegList = ({currentDept}) => {
                     >
           {hasSelected ? `Selected ${selectedRowKeys.length} items` : ''}
                         <br/>
-                        { hasSelected? `Selected record ID ${selectedRowKeys.toString()}`: ''}
+                        {hasSelected ? `Selected record ID ${selectedRowKeys.toString()}` : ''}
         </span>
                 </div>
-                {data.hasOwnProperty("length") && <Table rowSelection={rowSelection} columns={columns} dataSource={usedata}/>}
+                {data.hasOwnProperty("length") &&
+                    <Table rowSelection={rowSelection} columns={columns} dataSource={usedata}/>}
             </div>
-        </div>
-    );
+        </div>);
 };
 export default RegList;
