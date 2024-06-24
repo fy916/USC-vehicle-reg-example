@@ -80,7 +80,7 @@ const carData = [
 
 const CreateForm = ({visible, setVisible, preSelect}) => {
     const [form] = Form.useForm();
-    const [vehicleTypeOtherInput, setVehicleTypeOtherInput] = useState(true);
+    const [vehicleTypeOtherInput, setVehicleTypeOtherInput] = useState(false);
     const [models, setModels] = useState([]);
     const [customMake, setCustomMake] = useState('');
     const [customModel, setCustomModel] = useState('');
@@ -180,7 +180,7 @@ const CreateForm = ({visible, setVisible, preSelect}) => {
                 name="make"
                 rules={[{ required: true, message: "Vehicle Make!" }]}>
                 <Select
-                    defaultValue={"Other"}
+                    // defaultValue={"Other"}
                     style={{ width: 400 }}
                     allowClear
                     onChange={handleMakeChange}
@@ -206,7 +206,7 @@ const CreateForm = ({visible, setVisible, preSelect}) => {
                 name="model"
                 rules={[{ required: true, message: "Please select the model!" }]}>
                 <Select
-                    defaultValue={"Other"}
+                    // defaultValue={"Other"}
                     style={{ width: 400 }}
                     allowClear
                     onChange={handleModelChange}
@@ -230,7 +230,7 @@ const CreateForm = ({visible, setVisible, preSelect}) => {
 
 
             <Form.Item name="Vehicle Type" label="Vehicle Type">
-                <Radio.Group onChange={vehicleTypeRadioGroupOnChange} defaultValue={"Other"}>
+                <Radio.Group onChange={vehicleTypeRadioGroupOnChange}>
                     <Radio value="Cars/MPV">Cars/MPV</Radio> <br></br>
                     <Radio value="Pick-Up/Van/Small Truck">Pick-Up/Van/Small Truck</Radio><br></br>
                     <Radio value="Large Trucks">Large Trucks</Radio><br></br>
