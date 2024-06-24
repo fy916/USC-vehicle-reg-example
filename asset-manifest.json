@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/USC-vehicle-reg-example/static/css/main.f855e6bc.css",
-    "main.js": "/USC-vehicle-reg-example/static/js/main.b8222b91.js",
-    "static/js/453.593cc118.chunk.js": "/USC-vehicle-reg-example/static/js/453.593cc118.chunk.js",
-    "static/media/logo.svg": "/USC-vehicle-reg-example/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/USC-vehicle-reg-example/static/css/main.888b37c5.css",
+    "main.js": "/USC-vehicle-reg-example/static/js/main.a1c44935.js",
+    "static/js/453.0cbedd07.chunk.js": "/USC-vehicle-reg-example/static/js/453.0cbedd07.chunk.js",
     "index.html": "/USC-vehicle-reg-example/index.html",
-    "main.f855e6bc.css.map": "/USC-vehicle-reg-example/static/css/main.f855e6bc.css.map",
-    "main.b8222b91.js.map": "/USC-vehicle-reg-example/static/js/main.b8222b91.js.map",
-    "453.593cc118.chunk.js.map": "/USC-vehicle-reg-example/static/js/453.593cc118.chunk.js.map"
+    "main.888b37c5.css.map": "/USC-vehicle-reg-example/static/css/main.888b37c5.css.map",
+    "main.a1c44935.js.map": "/USC-vehicle-reg-example/static/js/main.a1c44935.js.map",
+    "453.0cbedd07.chunk.js.map": "/USC-vehicle-reg-example/static/js/453.0cbedd07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b8222b91.js"
+    "static/css/main.888b37c5.css",
+    "static/js/main.a1c44935.js"
   ]
 }

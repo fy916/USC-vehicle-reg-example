@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/USC-vehicle-reg-example/static/css/main.f855e6bc.css",
-    "main.js": "/USC-vehicle-reg-example/static/js/main.836bfa04.js",
+    "main.css": "/USC-vehicle-reg-example/static/css/main.888b37c5.css",
+    "main.js": "/USC-vehicle-reg-example/static/js/main.a1c44935.js",
     "static/js/453.0cbedd07.chunk.js": "/USC-vehicle-reg-example/static/js/453.0cbedd07.chunk.js",
     "index.html": "/USC-vehicle-reg-example/index.html",
-    "main.f855e6bc.css.map": "/USC-vehicle-reg-example/static/css/main.f855e6bc.css.map",
-    "main.836bfa04.js.map": "/USC-vehicle-reg-example/static/js/main.836bfa04.js.map",
+    "main.888b37c5.css.map": "/USC-vehicle-reg-example/static/css/main.888b37c5.css.map",
+    "main.a1c44935.js.map": "/USC-vehicle-reg-example/static/js/main.a1c44935.js.map",
     "453.0cbedd07.chunk.js.map": "/USC-vehicle-reg-example/static/js/453.0cbedd07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.836bfa04.js"
+    "static/css/main.888b37c5.css",
+    "static/js/main.a1c44935.js"
   ]
 }

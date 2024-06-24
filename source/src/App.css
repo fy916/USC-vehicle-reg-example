@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  flex-direction: column;
+  text-align: center;
+
+  top: 0;
+  width: 100%;
+  background-color: white; /* Add a background color if needed */
+  padding: 10px; /* Adjust padding as necessary */
+  z-index: 1000; /* Ensures the header is on top of other content */
+}
+.centered-title {
+  margin: 0;
+}
+.banner img {
+  align-self: flex-start;
+  width: 300px;
+}
+
+.banner h1 {
+  flex: 1;
+  text-align: center;
+  margin: 0;
+}
+
+
